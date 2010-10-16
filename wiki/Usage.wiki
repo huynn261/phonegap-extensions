@@ -34,7 +34,6 @@ uicontrols.setNavigationBarLeftButton({
 
 uicontrols.removeNavigationBarLeftButton();
 
-
 ==Remove the right button==
 
 uicontrols.removeNavigationBarRightButton();
